@@ -1,0 +1,67 @@
+body {
+  background-color: #fff7ae;
+  margin: 0;
+  font-family: georgia, serif;
+  font-size: 18px;
+  text-align: center;
+  line-height: 2;
+
+}
+
+h1 {
+  display: inline-block;
+  text-align: center;
+  font-family:brush script mt, cursive;
+  font-size: 100px;
+  margin: auto auto 10px auto;
+}
+
+.tain {
+  width: 500px;
+  height: 500px;
+}
+
+.mon {
+  height: 400px;
+  width: 400px;
+}
+
+.div {
+  background-color: lightblue;
+  text-align: center;
+}
+
+.nerd {
+  margin: 60 auto 60 auto;
+  width: 45%
+}
+.skill{
+  width: 50%;
+  margin: auto;
+  margin: 100px;
+}
+h3 {
+  color: #39a2db;
+  font-weight: 900;
+}
+.mathimg{
+  width: 25%;
+float: left;
+}
+.codeimg{
+  width: 20%;
+  float: left;
+}
+
+.pencil {
+  height: 200px;
+  width: 200px;
+}
+img{
+  margin: 50px;
+  width: 50%;
+}
+.lastdiv{
+  margin: 20px;
+  background-color: brown;
+}
